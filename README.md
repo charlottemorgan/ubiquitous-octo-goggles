@@ -1,4 +1,5 @@
 # ubiquitous-octo-goggles
 
-team members
-KATE
+Team members
+Charlotte
+Kate
